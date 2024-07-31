@@ -1,0 +1,3 @@
+[submodule "Application/External/simpleble"]
+	path = Application/External/simpleble
+	url = https://github.com/OpenBluetoothToolbox/SimpleBLE.git

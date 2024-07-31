@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project>
+    	
+    <configuration id="fr.ac6.ide.wise.managedbuild.projecttype.exe.config.release.1251491928" name="Release">
+        		
+        <extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
+            			
+            <provider copy-of="extension" id="org.eclipse.cdt.ui.UserLanguageSettingsProvider"/>
+            			
+            <provider-reference id="org.eclipse.cdt.core.ReferencedProjectsLanguageSettingsProvider" ref="shared-provider"/>
+            			
+            <provider-reference id="org.eclipse.cdt.managedbuilder.core.MBSLanguageSettingsProvider" ref="shared-provider"/>
+            			
+            <provider class="fr.ac6.ide.wise.managedbuild.core.BuiltinSpecsDetector" console="false" env-hash="1666600899885353458" id="fr.ac6.ide.wise.managedbuild.core.BuiltinSpecsDetector" keep-relative-paths="false" name="WiSE Built-in Compiler Settings" parameter="${COMMAND} ${FLAGS} -E -P -v -dD &quot;${INPUTS}&quot;" prefer-non-shared="true">
+                				
+                <language-scope id="org.eclipse.cdt.core.gcc"/>
+                				
+                <language-scope id="org.eclipse.cdt.core.g++"/>
+                			
+            </provider>
+            		
+        </extension>
+        	
+    </configuration>
+    	
+    <configuration id="fr.ac6.ide.wise.managedbuild.projecttype.exe.config.release.1251491928.2" name="LowerApp_OTA_">
+        		
+        <extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
+            			
+            <provider copy-of="extension" id="org.eclipse.cdt.ui.UserLanguageSettingsProvider"/>
+            			
+            <provider-reference id="org.eclipse.cdt.core.ReferencedProjectsLanguageSettingsProvider" ref="shared-provider"/>
+            			
+            <provider-reference id="org.eclipse.cdt.managedbuilder.core.MBSLanguageSettingsProvider" ref="shared-provider"/>
+            			
+            <provider class="fr.ac6.ide.wise.managedbuild.core.BuiltinSpecsDetector" console="false" env-hash="1726108496167322981" id="fr.ac6.ide.wise.managedbuild.core.BuiltinSpecsDetector" keep-relative-paths="false" name="WiSE Built-in Compiler Settings" parameter="${COMMAND} ${FLAGS} -E -P -v -dD &quot;${INPUTS}&quot;" prefer-non-shared="true">
+                				
+                <language-scope id="org.eclipse.cdt.core.gcc"/>
+                				
+                <language-scope id="org.eclipse.cdt.core.g++"/>
+                			
+            </provider>
+            		
+        </extension>
+        	
+    </configuration>
+    	
+    <configuration id="fr.ac6.ide.wise.managedbuild.projecttype.exe.config.release.1251491928.2.3" name="HigherApp_OTA_">
+        		
+        <extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
+            			
+            <provider copy-of="extension" id="org.eclipse.cdt.ui.UserLanguageSettingsProvider"/>
+            			
+            <provider-reference id="org.eclipse.cdt.core.ReferencedProjectsLanguageSettingsProvider" ref="shared-provider"/>
+            			
+            <provider-reference id="org.eclipse.cdt.managedbuilder.core.MBSLanguageSettingsProvider" ref="shared-provider"/>
+            			
+            <provider class="fr.ac6.ide.wise.managedbuild.core.BuiltinSpecsDetector" console="false" env-hash="1657052167648480809" id="fr.ac6.ide.wise.managedbuild.core.BuiltinSpecsDetector" keep-relative-paths="false" name="WiSE Built-in Compiler Settings" parameter="${COMMAND} ${FLAGS} -E -P -v -dD &quot;${INPUTS}&quot;" prefer-non-shared="true">
+                				
+                <language-scope id="org.eclipse.cdt.core.gcc"/>
+                				
+                <language-scope id="org.eclipse.cdt.core.g++"/>
+                			
+            </provider>
+            		
+        </extension>
+        	
+    </configuration>
+    	
+    <configuration id="fr.ac6.ide.wise.managedbuild.projecttype.exe.config.release.1251491928.2.3.4" name="Use_OTA_ServiceManager">
+        		
+        <extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
+            			
+            <provider copy-of="extension" id="org.eclipse.cdt.ui.UserLanguageSettingsProvider"/>
+            			
+            <provider-reference id="org.eclipse.cdt.core.ReferencedProjectsLanguageSettingsProvider" ref="shared-provider"/>
+            			
+            <provider-reference id="org.eclipse.cdt.managedbuilder.core.MBSLanguageSettingsProvider" ref="shared-provider"/>
+            			
+            <provider class="fr.ac6.ide.wise.managedbuild.core.BuiltinSpecsDetector" console="false" env-hash="1642970167956254700" id="fr.ac6.ide.wise.managedbuild.core.BuiltinSpecsDetector" keep-relative-paths="false" name="WiSE Built-in Compiler Settings" parameter="${COMMAND} ${FLAGS} -E -P -v -dD &quot;${INPUTS}&quot;" prefer-non-shared="true">
+                				
+                <language-scope id="org.eclipse.cdt.core.gcc"/>
+                				
+                <language-scope id="org.eclipse.cdt.core.g++"/>
+                			
+            </provider>
+            		
+        </extension>
+        	
+    </configuration>
+    
+</project>
